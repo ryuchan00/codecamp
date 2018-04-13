@@ -1,4 +1,4 @@
-pre>
+<pre>
 <?php
  
 $host     = 'localhost'; // データベースのホスト名又はIPアドレス ※CodeCampでは「localhost」で接続できます
